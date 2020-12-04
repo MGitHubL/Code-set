@@ -3,8 +3,8 @@ A paper: **Network Representation Learning Algorithm Based on Neighborhood Influ
 
 
 
-This code is an early version, We will update to the final version in the future.
+We are sorry that due to COVID-19, we have lost the final version of the code and data. 
 
-If you find any problem when reproducing, we welcome your corrections.
+If you want to read or cite our code, you can refer to another paper of ours with a similar architecture: Aggregate Global and Local Influences on Temporal Networks via Inductive Network Representation Learning
 
 My usual email is 15138964863@163.com.
